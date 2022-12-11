@@ -1,2 +1,2 @@
 # toDo
-Simple todo-interface (Html,css,js)
+Simple todo-interface Html,css,js
